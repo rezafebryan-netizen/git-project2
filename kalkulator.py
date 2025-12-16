@@ -1,3 +1,7 @@
 a = int(input("angka pertama"))
 b = int(input("angka kedua"))
-print(a + b)
+c = a + b 
+print(c)
+
+pembagian = a/b
+print(pembagian)
